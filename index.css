@@ -1,0 +1,73 @@
+body {
+
+}
+.login-form {
+    text-align: center;
+   width: 100%;
+   background-color: rgba(0, 0, 0, 0.6);
+   padding: 40px;
+   width: 350px;
+   border-radius: 10px;
+   color: white;
+}
+.hh {
+    background-image: url(https://blog.vpncity.com/wp-content/uploads/2020/01/xx.png
+    );
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Forgot {
+    color: white;
+}
+.remember {
+    width: 20px;
+    align-items: center;
+}
+.signup {
+    text-align: left;
+    color: white;
+}
+.captcha {
+    text-align: left;
+    font-size: 12px;
+}
+input {
+    width: 88%;
+    padding: 10px 20px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid rgb(66, 43, 43);
+}
+#signin {
+    width: 100%;
+    text-align: center;
+    padding: 9px;
+    background-color: red;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+#use {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 9px;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid  rgb(66, 43, 43);
+    
+}
+h2 {
+    text-align: left;
+}
+
+#NET {
+    color: red;
+    
+}
